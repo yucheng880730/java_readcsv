@@ -1,0 +1,11 @@
+name,sound,consume,speed,type
+Cow,mooooooo,grass,1km/h,terrestrial
+Alligator,hiss,meat,10km/h,aquatic
+Badger,grow,worms,2km/h,terrestrial
+Cat,meow,cookies,3.5km/h,terrestrial
+Chicken,cha-caw,grain,1.1km/h,terrestrial
+Crab,chirp,little-fish,2km/h,aquatic
+Dolphin,click,fish,100km/h,aquatic
+Duck,HONK!!!,idk,3km/h,aquatic
+Frog,croak,worms,0.5km/h,terrestrial
+Fox,idk,meat,50km/h,terrestrial
